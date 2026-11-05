@@ -1,2 +1,3 @@
 # BST
 Breadth First Search algorithm implementation in C
+A Binary Search Tree (BST) is a data structure that stores data in an organized way so it can be found quickly. Each node can have up to two children, where values smaller than the node are placed on the left side and values larger than the node are placed on the right side. This ordering makes searching, inserting, and deleting data more efficient because the program can eliminate half of the remaining possibilities at each step. In C, a BST is typically created using a structure that contains a data value and pointers to the left and right child nodes.
